@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -27,4 +28,8 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

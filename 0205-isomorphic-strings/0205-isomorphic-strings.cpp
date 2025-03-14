@@ -7,7 +7,7 @@ public:
             if(arr_s[s[i]] == 0 && arr_t[t[i]] == 0){
                 arr_s[s[i]]=t[i];
                 arr_t[t[i]]=s[i];
-            }else if(arr_s[s[i]] != t[i] || arr_t[t[i]] != s[i]){
+            }else if(arr_t[t[i]] != s[i]){
                 return false;
             }
         }

@@ -12,13 +12,13 @@ public:
             cout<<temp[i]<<" "<<goal[j]<<endl;
             if(temp[i]==goal[j]){
                 j++;
+                i++;
             }
             else{
-                i=i-j;
+                i=i-j+1;
                 j=0;
             }
             if(j>=goal.length()) break;
-            i++;
         }
         return j==goal.length();
     }

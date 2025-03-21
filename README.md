@@ -75,4 +75,8 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

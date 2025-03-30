@@ -10,34 +10,24 @@
  */
 class Solution {
 public:
-    int length(ListNode* head){
-        int cnt=0;
-        ListNode* ptr=head;
-        while(ptr != NULL){
-            cnt++;
-            ptr=ptr->next;
-        }
-        return cnt;
-    }
+    
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head == NULL)return head;
-        int len=length(head);
-        int k=len-n+1;
-        if(k == 1){
-            ListNode* temp=head;
-            head=head->next;
-            delete(temp);
-            return head;
+        ListNode* start = new ListNode(0);
+        ListNode* slow = start;
+        ListNode* fast = start;
+        slow->next = head;
+        
+        //Move fast in front so that the gap between slow and fast becomes n
+        for(int i=1; i<=n+1; i++)   {
+            fast = fast->next;
         }
-        ListNode* ptr=head;
-        int cnt=1;
-        while(cnt < k-1){
-            ptr=ptr->next;
-            cnt++;
+        //Move fast to the end, maintaining the gap
+        while(fast != NULL) {
+            slow = slow->next;
+            fast = fast->next;
         }
-        ListNode* temp1=ptr->next;
-        ptr->next=temp1->next;
-        delete(temp1);
-        return head;
+        //Skip the desired node
+        slow->next = slow->next->next;
+        return start->next;
     }
 };

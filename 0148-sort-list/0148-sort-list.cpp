@@ -38,15 +38,11 @@ public:
                 right=right->next;
             }
         }
-        while(left != NULL){
+        if(left != NULL){
             ptr->next=left;
-            ptr=left;
-            left=left->next;
         }
-        while(right != NULL){
+        if(right != NULL){
             ptr->next=right;
-            ptr=right;
-            right=right->next;
         }
         return dummy->next;
     }

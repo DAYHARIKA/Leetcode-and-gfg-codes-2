@@ -38,12 +38,9 @@ public:
                 right=right->next;
             }
         }
-        if(left != NULL){
-            ptr->next=left;
-        }
-        if(right != NULL){
-            ptr->next=right;
-        }
+        if(left != NULL)ptr->next=left;
+        if(right != NULL)ptr->next=right;
+        
         return dummy->next;
     }
     ListNode* sortList(ListNode* head) {

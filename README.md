@@ -92,6 +92,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
@@ -104,6 +105,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |

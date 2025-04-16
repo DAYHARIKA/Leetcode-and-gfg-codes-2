@@ -4,9 +4,8 @@ public:
     long long power(long long a,long long b){
         if(b == 0)return 1;
         long long t=power(a,b/2);
-        t=(t*t)%M;
-        if(b%2 == 1)return (t*a)%M;
-        return t;
+        if(b%2 == 1)return (t*t*a)%M;
+        return (t*t)%M;
     }
     int countGoodNumbers(long long n) {
         

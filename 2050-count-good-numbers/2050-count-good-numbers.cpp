@@ -2,10 +2,16 @@ class Solution {
 public:
     int M=1e9 + 7;
     long long power(long long a,long long b){
-        if(b == 0)return 1;
-        long long t=power(a,b/2);
-        if(b%2 == 1)return (t*t*a)%M;
-        return (t*t)%M;
+        long long res=1;
+        while(b != 0){
+            if(b%2 == 1){
+               res = (res*a)%M;
+            }
+            a=(a*a)%M;
+            b=b/2;
+        }
+        return res;
+
     }
     int countGoodNumbers(long long n) {
         

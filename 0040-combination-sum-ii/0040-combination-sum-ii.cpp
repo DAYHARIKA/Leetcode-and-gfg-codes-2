@@ -9,8 +9,11 @@ public:
         for(int i=ind;i<candidates.size();i++){
             if(i>ind && candidates[i]==candidates[i-1])continue;
             if(candidates[i] > target)continue;
-            temp.push_back(candidates[i]);
-            solve(candidates,target-candidates[i],temp,ans,i+1);
+            if(target-candidates[i] >= 0){
+                temp.push_back(candidates[i]);
+                solve(candidates,target-candidates[i],temp,ans,i+1);
+            }
+            
             temp.pop_back();       
         }
     }

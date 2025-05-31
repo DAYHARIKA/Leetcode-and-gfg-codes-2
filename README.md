@@ -150,6 +150,7 @@ You can click the Preview link to take a look at your changes.
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ You can click the Preview link to take a look at your changes.
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |

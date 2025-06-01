@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool ispalindrome(string s1){
-         if(s1.length() == 1)return true;
          int l=0;
          int h=s1.length()-1;
          while(l<h){

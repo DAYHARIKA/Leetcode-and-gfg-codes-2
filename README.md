@@ -156,6 +156,7 @@ You can click the Preview link to take a look at your changes.
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
@@ -167,6 +168,7 @@ You can click the Preview link to take a look at your changes.
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |

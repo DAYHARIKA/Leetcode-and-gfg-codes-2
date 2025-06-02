@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 | [0014-longest-common-prefix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
@@ -132,6 +133,7 @@ You can click the Preview link to take a look at your changes.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -155,6 +157,7 @@ You can click the Preview link to take a look at your changes.
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
@@ -165,6 +168,7 @@ You can click the Preview link to take a look at your changes.
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -172,4 +176,8 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
@@ -153,6 +154,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
@@ -165,6 +167,7 @@ You can click the Preview link to take a look at your changes.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
@@ -181,5 +184,6 @@ You can click the Preview link to take a look at your changes.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

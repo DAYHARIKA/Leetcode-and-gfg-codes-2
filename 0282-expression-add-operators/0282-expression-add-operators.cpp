@@ -1,41 +1,54 @@
 class Solution {
 public:
-    vector<string> addOperators(string num, int target) {
-    vector<string> results;
-
-    // Internal recursive function to build expressions
-    function<void(int, long, long, string)> build = [&](int index, long eval, long last, string expr) {
-        if (index == num.size()) {
-            if (eval == target) {
-                results.push_back(expr);
-            }
-            return;
+    void exploreCombinations(
+    const string& digits,
+    int target,
+    vector<string>& expressions,
+    int pos,
+    long accumulated,
+    long previous,
+    string currentExpr
+) {
+    if (pos == digits.size()) {
+        if (accumulated == target) {
+            expressions.push_back(currentExpr);
         }
+        return;
+    }
 
-        for (int j = index; j < num.size(); ++j) {
-            // Prevent numbers like "05", "00" etc.
-            if (j > index && num[index] == '0') break;
+    for (int i = pos; i < digits.size(); ++i) {
+        // Avoid numbers with leading zero
+        if (i > pos && digits[pos] == '0') break;
 
-            string current = num.substr(index, j - index + 1);
-            long value = stol(current);
+        string part = digits.substr(pos, i - pos + 1);
+        long num = stol(part);
 
-            if (index == 0) {
-                // First number, just start the expression
-                build(j + 1, value, value, current);
-            } else {
-                // Addition
-                build(j + 1, eval + value, value, expr + '+' + current);
-                // Subtraction
-                build(j + 1, eval - value, -value, expr + '-' + current);
-                // Multiplication (handle precedence)
-                build(j + 1, eval - last + last * value, last * value, expr + '*' + current);
-            }
+        if (pos == 0) {
+            // First number, initialize
+            exploreCombinations(digits, target, expressions, i + 1, num, num, part);
+        } else {
+            // Try with +
+            exploreCombinations(digits, target, expressions, i + 1, accumulated + num, num, currentExpr + "+" + part);
+            // Try with -
+            exploreCombinations(digits, target, expressions, i + 1, accumulated - num, -num, currentExpr + "-" + part);
+            // Try with *
+            exploreCombinations(
+                digits,
+                target,
+                expressions,
+                i + 1,
+                accumulated - previous + (previous * num),
+                previous * num,
+                currentExpr + "*" + part
+            );
         }
-    };
+    }
+}
 
-    // Start recursion
-    build(0, 0, 0, "");
-    return results;
+vector<string> addOperators(string num, int target) {
+    vector<string> output;
+    exploreCombinations(num, target, output, 0, 0, 0, "");
+    return output;
 }
 
 };

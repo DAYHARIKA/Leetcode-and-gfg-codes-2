@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 | [0151-reverse-words-in-a-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -46,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2050-count-good-numbers) |
 ## Greedy
@@ -164,6 +166,7 @@ You can click the Preview link to take a look at your changes.
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
 ## Array
 |  |
 | ------- |

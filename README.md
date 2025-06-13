@@ -96,6 +96,7 @@ You can click the Preview link to take a look at your changes.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
@@ -194,6 +195,7 @@ You can click the Preview link to take a look at your changes.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
 ## Queue

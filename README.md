@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
@@ -183,6 +184,7 @@ You can click the Preview link to take a look at your changes.
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -205,4 +207,8 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

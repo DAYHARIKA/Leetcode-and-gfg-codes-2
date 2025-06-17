@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
@@ -102,6 +103,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
@@ -163,6 +165,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -186,6 +189,7 @@ You can click the Preview link to take a look at your changes.
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
@@ -225,6 +229,7 @@ You can click the Preview link to take a look at your changes.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
 ## Counting Sort

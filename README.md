@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0061-rotate-list) |
@@ -55,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -186,6 +188,7 @@ You can click the Preview link to take a look at your changes.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |

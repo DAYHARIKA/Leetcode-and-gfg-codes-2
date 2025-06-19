@@ -38,11 +38,11 @@ public:
         solvepse(arr,n,pse);
         long sum=0;
         for(int i=0;i<n;i++){
-            int total_nse=nse[i]-i;
-            int total_pse=i-pse[i];
-            sum +=(long) total_nse*total_pse % M * arr[i] % M;
-            sum %= M;
-
+            long total_nse=nse[i]-i;
+            long total_pse=i-pse[i];
+            long contribute = (total_nse * total_pse)%M;
+            contribute= (contribute* arr[i])%M;
+            sum = (sum+contribute)%M;
         }
         return (int)sum;
     }

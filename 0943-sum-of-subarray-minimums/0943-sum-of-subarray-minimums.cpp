@@ -40,7 +40,7 @@ public:
         for(int i=0;i<n;i++){
             int total_nse=nse[i]-i;
             int total_pse=i-pse[i];
-           sum = (sum + (1LL * total_nse * total_pse % M) * arr[i] % M) % M;
+            sum = (sum + (total_nse*total_pse*1LL % M) * arr[i] % M) % M;
 
         }
         return sum;

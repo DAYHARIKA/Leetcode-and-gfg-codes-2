@@ -4,11 +4,11 @@ public:
         int n=asteroids.size();
         vector<int> ans;
         stack<int> s;
-        int i=0;
-        while(i<n){
+        int i=n-1;
+        while(i>=0){
             int flag=0;
 
-            while(!s.empty() && s.top() > 0 && asteroids[i] < 0){
+            while(!s.empty() && s.top() < 0 && asteroids[i] > 0){
                  if(abs(s.top()) > abs(asteroids[i])){
                     flag=1;
                     break;
@@ -23,13 +23,12 @@ public:
             if(flag == 0){
                 s.push(asteroids[i]);
             }
-            i++;
+            i--;
         }
         while(!s.empty()){
             ans.push_back(s.top());
             s.pop();
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };

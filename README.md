@@ -77,6 +77,7 @@ You can click the Preview link to take a look at your changes.
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -138,6 +139,7 @@ You can click the Preview link to take a look at your changes.
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -242,6 +244,7 @@ You can click the Preview link to take a look at your changes.
 | [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -305,4 +308,5 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->

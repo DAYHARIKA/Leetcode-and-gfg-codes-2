@@ -72,6 +72,7 @@ You can click the Preview link to take a look at your changes.
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ You can click the Preview link to take a look at your changes.
 | [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
@@ -236,6 +238,7 @@ You can click the Preview link to take a look at your changes.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0232-implement-queue-using-stacks) |
@@ -298,4 +301,8 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

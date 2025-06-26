@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0014-longest-common-prefix) |
@@ -68,6 +69,7 @@ You can click the Preview link to take a look at your changes.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
@@ -302,6 +304,7 @@ You can click the Preview link to take a look at your changes.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue

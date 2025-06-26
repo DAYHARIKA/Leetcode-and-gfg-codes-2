@@ -228,6 +228,7 @@ You can click the Preview link to take a look at your changes.
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2227-sum-of-subarray-ranges) |
@@ -281,6 +282,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
@@ -319,5 +322,6 @@ You can click the Preview link to take a look at your changes.
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

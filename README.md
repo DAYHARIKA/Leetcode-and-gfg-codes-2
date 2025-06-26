@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ You can click the Preview link to take a look at your changes.
 | [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -312,6 +314,7 @@ You can click the Preview link to take a look at your changes.
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |

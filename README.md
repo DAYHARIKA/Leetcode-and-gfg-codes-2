@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2050-count-good-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ You can click the Preview link to take a look at your changes.
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -239,6 +241,7 @@ You can click the Preview link to take a look at your changes.
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2227-sum-of-subarray-ranges) |
@@ -324,6 +327,7 @@ You can click the Preview link to take a look at your changes.
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
@@ -340,5 +344,6 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

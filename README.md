@@ -84,6 +84,7 @@ You can click the Preview link to take a look at your changes.
 | [0146-lru-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
@@ -105,6 +106,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +122,7 @@ You can click the Preview link to take a look at your changes.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -240,6 +243,7 @@ You can click the Preview link to take a look at your changes.
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |

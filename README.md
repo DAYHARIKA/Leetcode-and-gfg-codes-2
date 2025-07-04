@@ -68,6 +68,7 @@ You can click the Preview link to take a look at your changes.
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -254,6 +255,7 @@ You can click the Preview link to take a look at your changes.
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |

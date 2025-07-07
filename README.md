@@ -244,6 +244,7 @@ You can click the Preview link to take a look at your changes.
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0084-largest-rectangle-in-histogram) |
@@ -281,6 +282,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |
@@ -343,6 +345,7 @@ You can click the Preview link to take a look at your changes.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 ## Data Stream
 |  |

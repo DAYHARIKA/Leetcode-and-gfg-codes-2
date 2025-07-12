@@ -8,8 +8,8 @@ public:
              if(i+nums[i] > maxind){
                 maxind=i+nums[i];
              }
-
-             if(maxind == i && i != nums.size()-1){
+             if(maxind >= nums.size()-1)break;
+             if(maxind == i ){
                 return false;
              }
          }

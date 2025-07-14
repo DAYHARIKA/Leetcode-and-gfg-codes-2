@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
@@ -213,6 +214,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
@@ -245,6 +247,7 @@ You can click the Preview link to take a look at your changes.
 | [0039-combination-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |

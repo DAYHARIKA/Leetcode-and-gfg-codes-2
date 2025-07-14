@@ -6,9 +6,9 @@ public:
         int maxind=0;
         int cnt=0;
         int lastpos=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-1;i++){
             maxind=max(maxind,i+nums[i]);
-            if(lastpos == i && i != n-1){
+            if(lastpos == i ){
                 lastpos=maxind;
                 cnt++;
                 if(lastpos >= n-1)break;

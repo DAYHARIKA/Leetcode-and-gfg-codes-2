@@ -71,6 +71,7 @@ You can click the Preview link to take a look at your changes.
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
@@ -117,6 +118,7 @@ You can click the Preview link to take a look at your changes.
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,6 +221,7 @@ You can click the Preview link to take a look at your changes.
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -265,6 +268,7 @@ You can click the Preview link to take a look at your changes.
 | [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |

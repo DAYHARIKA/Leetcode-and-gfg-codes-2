@@ -256,6 +256,7 @@ You can click the Preview link to take a look at your changes.
 | [0051-n-queens](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0084-largest-rectangle-in-histogram) |

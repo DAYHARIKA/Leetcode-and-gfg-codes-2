@@ -274,6 +274,7 @@ You can click the Preview link to take a look at your changes.
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
@@ -341,6 +342,7 @@ You can click the Preview link to take a look at your changes.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |

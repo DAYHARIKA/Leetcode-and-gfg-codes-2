@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int finding_days(vector<int>& weights,int cap,int days){
+    int finding_days(vector<int>& weights,int cap){
 
         int day=1;
         int sum=cap;
@@ -21,7 +21,7 @@ public:
         int high=accumulate(weights.begin(),weights.end(),0);
         while(low <= high){
             int mid=(low+high)/2;
-            int no_days=finding_days(weights,mid,days);
+            int no_days=finding_days(weights,mid);
             if(no_days <= days){
                 high=mid-1;
             }else{

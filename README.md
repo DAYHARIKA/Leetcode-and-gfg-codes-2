@@ -288,6 +288,7 @@ You can click the Preview link to take a look at your changes.
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -353,6 +354,7 @@ You can click the Preview link to take a look at your changes.
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |

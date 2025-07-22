@@ -74,6 +74,7 @@ You can click the Preview link to take a look at your changes.
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
@@ -226,6 +227,7 @@ You can click the Preview link to take a look at your changes.
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
+| [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
@@ -277,6 +279,7 @@ You can click the Preview link to take a look at your changes.
 | [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
@@ -353,6 +356,7 @@ You can click the Preview link to take a look at your changes.
 | [0069-sqrtx](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
@@ -408,6 +412,7 @@ You can click the Preview link to take a look at your changes.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |

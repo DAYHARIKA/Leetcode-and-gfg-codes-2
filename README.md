@@ -228,6 +228,7 @@ You can click the Preview link to take a look at your changes.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -281,6 +282,7 @@ You can click the Preview link to take a look at your changes.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -495,5 +497,6 @@ You can click the Preview link to take a look at your changes.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

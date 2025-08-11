@@ -11,29 +11,39 @@
  */
 class Solution {
 public:
+    TreeNode* solve(TreeNode* &root, int val){
+        if(root == NULL){
+            root=new TreeNode(val);
+        }else if(root->val < val){
+            root->right=solve(root->right,val);
+        }else{
+            root->left=solve(root->left,val);
+        }
+        return root;
+    }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
          
-         TreeNode* root1=root;
-         TreeNode* prev=NULL;
-         while(root1 != NULL){
+        //  TreeNode* root1=root;
+        //  TreeNode* prev=NULL;
+        //  while(root1 != NULL){
 
-            if(root1->val < val){
-                prev=root1;
-                root1=root1->right;
-            }else{
-                prev=root1;
-                root1=root1->left;
-            }
-         }
+        //     if(root1->val < val){
+        //         prev=root1;
+        //         root1=root1->right;
+        //     }else{
+        //         prev=root1;
+        //         root1=root1->left;
+        //     }
+        //  }
          
-         if(prev == NULL){
-            root=new TreeNode(val);
-         }else if(prev->val < val){
-            prev->right=new TreeNode(val);
-         }else{
-            prev->left=new TreeNode(val);
-         }
-         
+        //  if(prev == NULL){
+        //     root=new TreeNode(val);
+        //  }else if(prev->val < val){
+        //     prev->right=new TreeNode(val);
+        //  }else{
+        //     prev->left=new TreeNode(val);
+        //  }
+         solve(root,val);
          return root;
     }
 };

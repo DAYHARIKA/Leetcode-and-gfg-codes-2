@@ -15,10 +15,8 @@ public:
 
         if(i == preorder.size() || preorder[i] > bound)return NULL;
         
-        int value=preorder[i];
-        TreeNode* root=new TreeNode(value);
-        i++;
-        root->left=solve(preorder,i,value);
+        TreeNode* root=new TreeNode(preorder[i++]);
+        root->left=solve(preorder,i,root->val);
         root->right=solve(preorder,i,bound);
         return root;
     }

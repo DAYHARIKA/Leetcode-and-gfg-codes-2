@@ -246,6 +246,7 @@ You can click the Preview link to take a look at your changes.
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -284,6 +285,7 @@ You can click the Preview link to take a look at your changes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -313,6 +315,7 @@ You can click the Preview link to take a look at your changes.
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming

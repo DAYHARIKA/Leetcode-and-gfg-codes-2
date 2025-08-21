@@ -139,6 +139,7 @@ You can click the Preview link to take a look at your changes.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
@@ -183,6 +184,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -207,6 +209,7 @@ You can click the Preview link to take a look at your changes.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,6 +218,7 @@ You can click the Preview link to take a look at your changes.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |

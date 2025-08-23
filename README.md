@@ -80,6 +80,7 @@ You can click the Preview link to take a look at your changes.
 | [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
@@ -107,6 +108,7 @@ You can click the Preview link to take a look at your changes.
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
@@ -134,6 +136,7 @@ You can click the Preview link to take a look at your changes.
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -143,6 +146,7 @@ You can click the Preview link to take a look at your changes.
 | [0215-kth-largest-element-in-an-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -152,6 +156,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -395,6 +400,7 @@ You can click the Preview link to take a look at your changes.
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |

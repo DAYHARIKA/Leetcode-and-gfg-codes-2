@@ -17,10 +17,8 @@ public:
     
     int add(int val) {
         
-        if(pq.size() < k1){
-            pq.push(val);
-        }else if(val > pq.top()){
-            pq.push(val);
+        pq.push(val);
+        if(pq.size() > k1){
             pq.pop();
         }
 

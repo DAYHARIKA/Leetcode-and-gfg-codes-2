@@ -7,12 +7,14 @@ public:
     }
     
     void addNum(int num) {
+        //always insert element to left side when both are empty
+        //should follow property pq1.top() <= pq2.top() to get correct median
         if(pq1.size()==0 || num<pq1.top()){
 			 pq1.push(num);
 		 }else{
 			 pq2.push(num);
 		 }
-
+        //to get correct median,always the difference between size of heaps should be either 1 or 0.
          if(pq1.size()>pq2.size()+1){
 			 pq2.push(pq1.top());
 			 pq1.pop();

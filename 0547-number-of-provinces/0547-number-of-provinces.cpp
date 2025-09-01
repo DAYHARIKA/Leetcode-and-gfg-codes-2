@@ -12,7 +12,7 @@ public:
     int findCircleNum(vector<vector<int>>& isConnected) {
          int v=isConnected.size();
          vector<vector<int>> adj(v);
-
+        //creating adjacency list
          for(int i=0;i<v;i++){
              for(int j=0;j<v;j++){
                 if(isConnected[i][j] == 1 && i != j){
@@ -21,6 +21,7 @@ public:
                 }
              }
          }
+         //doing traversal of dfs
          vector<int> visited(v,0);
          int cnt=0;
          for(int i=0;i<v;i++){

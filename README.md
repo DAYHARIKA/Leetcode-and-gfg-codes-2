@@ -289,6 +289,7 @@ You can click the Preview link to take a look at your changes.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -308,6 +309,7 @@ You can click the Preview link to take a look at your changes.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +410,7 @@ You can click the Preview link to take a look at your changes.
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0229-majority-element-ii) |
@@ -451,6 +454,7 @@ You can click the Preview link to take a look at your changes.
 | [0054-spiral-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -476,6 +480,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |

@@ -4,7 +4,6 @@ public:
         
         int n=image.size();
         int m=image[0].size();
-        vector<vector<int>> visit(n,vector<int>(m,0));
         vector<vector<int>> ans(n,vector<int>(m));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -15,7 +14,6 @@ public:
         queue<pair<int,int>> q;
         int reqcolor=image[sr][sc];
         q.push({sr,sc});
-        visit[sr][sc]=1;
         ans[sr][sc]=color;
         
         vector<int> drow={-1,1,0,0};
@@ -28,9 +26,8 @@ public:
             for(int k=0;k<4;k++){
                 int row=i+drow[k];
                 int col=j+dcol[k];
-                if((row >= 0 && row < n) && (col >= 0 && col < m) && visit[row][col] != 1 && image[row][col] == reqcolor){
+                if((row >= 0 && row < n) && (col >= 0 && col < m) && image[row][col] == reqcolor && ans[row][col] != color){
                     q.push({row,col});
-                    visit[row][col]=1;
                     ans[row][col]=color;
                 }
             }

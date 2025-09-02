@@ -10,9 +10,11 @@ public:
                 ans[i][j]=image[i][j];
             }
         }
-
-        queue<pair<int,int>> q;
         int reqcolor=image[sr][sc];
+
+        if(color == reqcolor)return ans;
+        
+        queue<pair<int,int>> q;
         q.push({sr,sc});
         ans[sr][sc]=color;
         

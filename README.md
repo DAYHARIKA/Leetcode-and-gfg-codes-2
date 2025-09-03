@@ -312,6 +312,7 @@ You can click the Preview link to take a look at your changes.
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
@@ -365,6 +366,7 @@ You can click the Preview link to take a look at your changes.
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
@@ -427,6 +429,7 @@ You can click the Preview link to take a look at your changes.
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
@@ -460,6 +463,7 @@ You can click the Preview link to take a look at your changes.
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |

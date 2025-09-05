@@ -301,6 +301,7 @@ You can click the Preview link to take a look at your changes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
@@ -320,6 +321,7 @@ You can click the Preview link to take a look at your changes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -502,6 +504,7 @@ You can click the Preview link to take a look at your changes.
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
 |  |
@@ -618,4 +621,5 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->

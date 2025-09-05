@@ -303,6 +303,7 @@ You can click the Preview link to take a look at your changes.
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -323,6 +324,7 @@ You can click the Preview link to take a look at your changes.
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -446,6 +448,7 @@ You can click the Preview link to take a look at your changes.
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -470,6 +473,7 @@ You can click the Preview link to take a look at your changes.
 | [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -498,6 +502,7 @@ You can click the Preview link to take a look at your changes.
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |

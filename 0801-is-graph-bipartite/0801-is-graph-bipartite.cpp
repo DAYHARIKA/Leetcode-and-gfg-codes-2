@@ -1,13 +1,12 @@
 class Solution {
 private:
-    bool dfs(vector<vector<int>>& graph,vector<int>& arr,int node){
-        //  arr[node]=color;
+    bool dfs(vector<vector<int>>& graph,vector<int>& arr,int node,int color){
+         arr[node]=color;
 
          for(int it:graph[node]){
              if(arr[it] == -1){
-                arr[it]=!arr[node];
-                if(dfs(graph,arr,it) == false)return false;//not biaratite
-             }else if(arr[it] == arr[node]){
+                if(dfs(graph,arr,it,!color) == false)return false;//not biaratite
+             }else if(arr[it] == color){
                 return false;
              }
          }
@@ -21,8 +20,7 @@ public:
         vector<int> arr(n,-1);
         for(int i=0;i<n;i++){
             if(arr[i] == -1){
-                arr[i]=0;
-                if(dfs(graph,arr,i) == false)return false;
+                if(dfs(graph,arr,i,0) == false)return false;
             }
         }
 

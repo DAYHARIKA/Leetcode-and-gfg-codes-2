@@ -158,6 +158,7 @@ You can click the Preview link to take a look at your changes.
 | [0355-design-twitter](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
@@ -305,6 +306,7 @@ You can click the Preview link to take a look at your changes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0820-find-eventual-safe-states) |
@@ -330,6 +332,7 @@ You can click the Preview link to take a look at your changes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0820-find-eventual-safe-states) |
@@ -643,6 +646,7 @@ You can click the Preview link to take a look at your changes.
 | [0207-course-schedule](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0820-find-eventual-safe-states) |
@@ -655,5 +659,6 @@ You can click the Preview link to take a look at your changes.
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

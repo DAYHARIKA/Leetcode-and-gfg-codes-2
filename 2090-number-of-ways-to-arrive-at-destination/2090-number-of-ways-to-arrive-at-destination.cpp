@@ -43,7 +43,7 @@ public:
         }
 
 
-        return ways[n-1]%m;
+        return ways[n-1];
 
 
 

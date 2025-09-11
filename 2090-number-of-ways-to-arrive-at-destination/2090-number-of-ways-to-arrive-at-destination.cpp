@@ -3,7 +3,7 @@ public:
     int countPaths(int n, vector<vector<int>>& roads) {
 
         vector<vector<pair<int,int>>> adj(n);
-        int m=(int)1e9+7;
+        int m=1e9+7;
         for(int i=0;i<roads.size();i++){
             int u=roads[i][0];
             int v=roads[i][1];

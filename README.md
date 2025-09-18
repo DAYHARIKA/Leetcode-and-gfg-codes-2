@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
@@ -229,6 +230,7 @@ You can click the Preview link to take a look at your changes.
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer

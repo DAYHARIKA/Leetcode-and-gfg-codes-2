@@ -5,16 +5,15 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
+        from math import factorial
+        numbers =[str(i) for i in range(1,n+1)]
         k -= 1
-        nums=[i for i in range(1,n+1)]
-        factorials=[1]*n
-        for i in range(1,n):
-            factorials[i]=factorials[i-1]*i
         result=[]
-        for i in range(n-1,-1,-1):
-            idx=k//factorials[i]
-            result.append(str(nums[idx]))
-            nums.pop(idx)
-            k %= factorials[i]
+        for i in range(n,0,-1):
+            fact=factorial(i-1)
+            index=k//fact
+            result.append(numbers[index])
+            numbers.pop(index)
+            k %= fact
         return "".join(result)
         

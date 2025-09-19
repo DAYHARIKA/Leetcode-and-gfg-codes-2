@@ -66,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
@@ -387,6 +388,7 @@ You can click the Preview link to take a look at your changes.
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -670,4 +672,8 @@ You can click the Preview link to take a look at your changes.
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

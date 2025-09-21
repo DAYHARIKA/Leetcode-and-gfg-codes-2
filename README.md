@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0282-expression-add-operators) |
@@ -388,6 +389,7 @@ You can click the Preview link to take a look at your changes.
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
@@ -680,4 +682,8 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

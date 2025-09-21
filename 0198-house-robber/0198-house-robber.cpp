@@ -12,18 +12,20 @@ private:
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n,-1);
-        dp[0]=nums[0];
+        // vector<int> dp(n,-1);
+        // dp[0]=nums[0];
+        int prev1=0;
+        int prev2=nums[0];
         for(int i=1;i<n;i++){
-            int inclu=nums[i];
-            if(i-2 >= 0){
-                inclu += dp[i-2];
-            }
-            int exclu=dp[i-1];
+            int inclu=nums[i]+prev1;
+           
+            int exclu=prev2;
 
-            dp[i]=max(inclu,exclu);
+            int curr=max(inclu,exclu);
+            prev1=prev2;
+            prev2=curr;
         }
         
-        return dp[n-1];
+        return prev2;
     }
 };

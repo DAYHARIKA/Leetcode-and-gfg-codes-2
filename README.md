@@ -395,6 +395,7 @@ You can click the Preview link to take a look at your changes.
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0198-house-robber) |
@@ -451,6 +452,7 @@ You can click the Preview link to take a look at your changes.
 | [0090-subsets-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |

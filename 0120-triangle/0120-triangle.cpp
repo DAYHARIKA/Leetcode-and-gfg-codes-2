@@ -1,15 +1,4 @@
 class Solution {
-private:
-    int solve(vector<vector<int>>& triangle,int n,int i,int j){
-        if(i == n-1){
-            return triangle[n-1][j];
-        }
-
-        int down=triangle[i][j]+solve(triangle,n,i+1,j);
-        int diag=triangle[i][j]+solve(triangle,n,i+1,j+1);
-
-        return min(down,diag);
-    }
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n=triangle.size();

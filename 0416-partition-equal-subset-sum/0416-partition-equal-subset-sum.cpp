@@ -20,23 +20,24 @@ public:
         }
         if(sum%2 == 1)return false;
         
-        vector<vector<int>> dp(n,vector<int>((sum/2)+1,false));
-        for(int i=0;i<n;i++){
-            dp[i][0]=true;
-        }
-        if(nums[0] <= sum/2) dp[0][nums[0]] = true;
+        vector<bool> prev((sum/2)+1,false);  
+        vector<bool> temp((sum/2)+1,false); 
+        prev[0]=true;
+        if(nums[0] <= sum/2) prev[nums[0]] = true; 
 
         for(int i=1;i<n;i++){
+            //temp[0] = true; // sum=0 always possible
             for(int j=1;j<=sum/2;j++){
-                int nottake=dp[i-1][j];
+                int nottake=prev[j];
                 int take=false;
                 if(nums[i] <= j){
-                    take=dp[i-1][j-nums[i]];
+                    take=prev[j-nums[i]];
                 }
-                dp[i][j]=take||nottake; 
+                temp[j]=take||nottake; 
             }
+            prev=temp;
         }
 
-         return dp[n-1][sum/2];
+         return prev[sum/2];
     }
 };

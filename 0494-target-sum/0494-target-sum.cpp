@@ -27,7 +27,7 @@ public:
 
         int tar=(ts+target)/2;
         vector<int> dp(tar+1,0);
-        vector<int> curr(tar+1,0);
+        // vector<int> curr(tar+1,0);
 
         if(nums[0] == 0)dp[0]=2;
         else dp[0]=1;
@@ -35,16 +35,16 @@ public:
         if(nums[0] != 0 && nums[0] <= tar)dp[nums[0]]=1;
  
         for(int i=1;i<n;i++){
-            for(int j=0;j<=tar;j++){
+            for(int j=tar;j>=0;j--){
                 int nottake=dp[j];
                 int take=0;
                 if(nums[i] <= j){
                 take = dp[j-nums[i]];
                 }
 
-                curr[j]=take+nottake;
+                dp[j]=take+nottake;
             }
-            dp=curr;
+            // dp=curr;
         }
 
         return dp[tar];

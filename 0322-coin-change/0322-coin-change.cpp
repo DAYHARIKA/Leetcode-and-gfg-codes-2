@@ -15,20 +15,22 @@ private:
     }
 public:
     int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount+1,INT_MAX);
-        dp[0]=0;
+        int n = coins.size();
+        vector<int> dp(amount+1, INT_MAX);
 
-        for(int i=1;i<=amount;i++){
-            int mini=INT_MAX;
-            for(int j=0;j<coins.size();j++){
-                if(i-coins[j] >= 0 && dp[i-coins[j]] != INT_MAX){
-                    int temp=dp[i-coins[j]];
-                    mini=min(mini,1+temp);
-                }   
-            }
-            dp[i]=mini;
+        // Base case: using only coins[0]
+        for (int t = 0; t <= amount; t++) {
+           if(t % coins[0] == 0)dp[t]=t/coins[0];
         }
-        
+
+        for (int i = 1; i < n; i++) {
+            for (int t = 0; t <= amount; t++) {
+                int nottake = dp[t];
+                int take = INT_MAX;
+                if (coins[i] <= t && dp[t - coins[i]] != INT_MAX) take = 1+dp[t - coins[i]];
+                dp[t] = min(take,nottake);
+            }
+        }
         if(dp[amount] == INT_MAX)return -1;
         return dp[amount];
     }

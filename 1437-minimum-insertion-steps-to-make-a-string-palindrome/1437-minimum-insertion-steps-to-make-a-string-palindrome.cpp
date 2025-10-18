@@ -16,17 +16,19 @@ private:
 public:
     int minInsertions(string s) {  
         int n=s.length();
-        vector<vector<int>> dp(n,vector<int>(n,0));
+        vector<int> curr(n,0);
+        vector<int> prev(n,0);
 
         for(int ind1=n-1;ind1>=0;ind1--){
             for(int ind2=ind1+1;ind2<n;ind2++){
                 if(s[ind1] == s[ind2]){
-                    dp[ind1][ind2]=dp[ind1+1][ind2-1];
+                    curr[ind2]=prev[ind2-1];
                 }else{
-                    dp[ind1][ind2]=1+min(dp[ind1][ind2-1],dp[ind1+1][ind2]);
+                    curr[ind2]=1+min(curr[ind2-1],prev[ind2]);
                 }   
             }
+            prev=curr;
         }
-        return dp[0][n-1];
+        return prev[n-1];
     }
 };

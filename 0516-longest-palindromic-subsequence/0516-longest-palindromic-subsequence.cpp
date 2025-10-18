@@ -17,18 +17,20 @@ public:
         reverse(t.begin(),t.end());
         int n=s.length();
 
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<int> curr(n+1,0);
+        vector<int> prev(n+1,0);
 
         for(int ind1=1;ind1 <= n;ind1++){
             for(int ind2=1;ind2 <= n;ind2++){
                 if(s[ind1-1] == t[ind2-1]){
-                    dp[ind1][ind2]=1+dp[ind1-1][ind2-1];
+                    curr[ind2]=1+prev[ind2-1];
                 }else{
-                    dp[ind1][ind2]=0+max(dp[ind1-1][ind2],dp[ind1][ind2-1]);
+                    curr[ind2]=0+max(prev[ind2],curr[ind2-1]);
                 }           
             }
+            prev=curr;
         }
 
-        return dp[n][n];
+        return prev[n];
     }
 };

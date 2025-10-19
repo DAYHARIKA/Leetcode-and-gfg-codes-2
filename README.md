@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
@@ -238,6 +240,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0234-palindrome-linked-list) |
@@ -395,6 +398,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0062-unique-paths) |

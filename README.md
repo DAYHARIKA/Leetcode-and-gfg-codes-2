@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0076-minimum-window-substring) |
@@ -109,6 +110,7 @@ You can click the Preview link to take a look at your changes.
 | [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -644,6 +646,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0424-longest-repeating-character-replacement) |

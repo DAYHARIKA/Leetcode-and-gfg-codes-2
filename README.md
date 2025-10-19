@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 | [0022-generate-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0151-reverse-words-in-a-string) |
@@ -400,6 +401,7 @@ You can click the Preview link to take a look at your changes.
 | [0064-minimum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |

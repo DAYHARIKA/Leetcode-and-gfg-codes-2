@@ -98,6 +98,7 @@ You can click the Preview link to take a look at your changes.
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
@@ -431,6 +432,7 @@ You can click the Preview link to take a look at your changes.
 | [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0967-minimum-falling-path-sum) |
@@ -515,6 +517,7 @@ You can click the Preview link to take a look at your changes.
 | [0540-single-element-in-a-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |

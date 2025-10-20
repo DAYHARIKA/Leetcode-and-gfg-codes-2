@@ -89,6 +89,7 @@ You can click the Preview link to take a look at your changes.
 | [0044-wildcard-matching](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0402-remove-k-digits) |
@@ -412,6 +413,7 @@ You can click the Preview link to take a look at your changes.
 | [0115-distinct-subsequences](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0198-house-robber) |
@@ -480,6 +482,7 @@ You can click the Preview link to take a look at your changes.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0134-gas-station) |

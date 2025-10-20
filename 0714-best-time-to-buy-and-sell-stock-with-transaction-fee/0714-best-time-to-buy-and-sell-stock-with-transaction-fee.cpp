@@ -7,17 +7,8 @@ public:
         vector<int> prev(2,0);
 
         for(int ind=n-1;ind>=0;ind--){
-            for(int buy=0;buy<=1;buy++){
-                int profit=0;
-
-                if(buy){
-                    profit=max(-prices[ind]+prev[0],0+prev[1]);
-                }else{
-                    profit=max(prices[ind]+prev[1]-fee,0+prev[0]);
-                }
-
-                curr[buy]=profit;
-            }
+            curr[1]=max(-prices[ind]+prev[0],0+prev[1]);
+            curr[0]=max(prices[ind]+prev[1]-fee,0+prev[0]); 
             prev=curr;
         }
         return prev[1];

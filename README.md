@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 | [0015-3sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0142-linked-list-cycle-ii) |
@@ -469,6 +470,7 @@ You can click the Preview link to take a look at your changes.
 | [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0037-sudoku-solver) |

@@ -111,6 +111,7 @@ You can click the Preview link to take a look at your changes.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -467,6 +468,7 @@ You can click the Preview link to take a look at your changes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0018-4sum) |

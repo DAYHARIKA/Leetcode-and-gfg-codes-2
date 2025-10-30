@@ -8,7 +8,7 @@ public:
         int maxlen=0;
         while(r<n){
             mp[fruits[r]]++;
-            while(mp.size() == 3){
+            while(mp.size() > 2){
                   
                 mp[fruits[l]]--;
                 if(mp[fruits[l]] == 0){

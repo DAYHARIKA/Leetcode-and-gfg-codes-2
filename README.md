@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 | [0583-delete-operation-for-two-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -227,6 +228,7 @@ You can click the Preview link to take a look at your changes.
 | [0937-online-stock-span](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List

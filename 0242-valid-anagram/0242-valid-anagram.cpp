@@ -11,7 +11,7 @@ public:
 
          for(int i=0;i<t.length();i++){
             hash[t[i]-'a']--;
-
+ 
             if(hash[t[i]-'a'] < 0)return false;
          }
 

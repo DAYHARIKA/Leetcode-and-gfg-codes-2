@@ -9,35 +9,14 @@ public:
          return false;
 
     }
-    void bfs(vector<vector<char>>& grid,vector<vector<int>> &visited,int r,int c,int n,int m){
-         queue<pair<int,int>> q;
-         q.push({r,c});
+    void dfs(vector<vector<char>>& grid,vector<vector<int>> &visited,int r,int c,int n,int m,vector<int> &row,vector<int> &col){
          visited[r][c]=1;
 
-         while(!q.empty()){
-            pair<int,int> node=q.front();
-            q.pop();
-            int row=node.first;
-            int col=node.second;
-
-            if(check(grid,visited,row+1,col,n,m)){
-                visited[row+1][col]=1; 
-                q.push({row+1,col});
-            }
-
-            if(check(grid,visited,row-1,col,n,m)){
-                visited[row-1][col]=1; 
-                q.push({row-1,col});
-            }
-
-            if(check(grid,visited,row,col+1,n,m)){
-                visited[row][col+1]=1; 
-                q.push({row,col+1});
-            }
-
-            if(check(grid,visited,row,col-1,n,m)){
-                visited[row][col-1]=1; 
-                q.push({row,col-1});
+         for(int i=0;i<4;i++){
+            int newr=r+row[i];
+            int newc=c+col[i];
+            if(check(grid,visited,newr,newc,n,m)){
+                dfs(grid,visited,newr,newc,n,m,row,col);
             }
          }
     }
@@ -48,12 +27,14 @@ public:
         //visited array
         vector<vector<int>> visited(n,vector<int>(m,0));
         int cnt=0;
+        vector<int> row={0,0,-1,1};
+        vector<int> col={-1,1,0,0};
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(visited[i][j] != 1 && grid[i][j] == '1'){
                     cnt++;
-                    bfs(grid,visited,i,j,n,m);
+                    dfs(grid,visited,i,j,n,m,row,col);
                 }
             }
         }

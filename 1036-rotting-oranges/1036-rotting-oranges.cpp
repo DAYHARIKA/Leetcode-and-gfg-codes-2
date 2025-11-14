@@ -3,7 +3,7 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         
         int n=grid.size();
-        int m=grid[0].size();
+        int m=grid[0].size(); 
         queue<pair<pair<int,int>,int>> q;
         vector<vector<int>> visit(n,vector<int>(m,0));
         int cntfresh=0;

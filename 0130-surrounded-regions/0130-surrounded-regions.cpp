@@ -2,18 +2,18 @@ class Solution {
 private:
     void dfs(vector<vector<char>>& board,vector<vector<int>> &visit,int i,int j,vector<int> &drow,vector<int> &dcol){
          
-         visit[i][j]=1;
+        visit[i][j]=1;
 
-         int n=board.size();
-         int m=board[0].size();
+        int n=board.size();
+        int m=board[0].size();
 
-         for(int k=0;k<4;k++){
+        for(int k=0;k<4;k++){
             int row=i+drow[k];
             int col=j+dcol[k];
             if((row >= 0 && row < n) && (col >= 0 && col < m) && board[row][col] == 'O' && visit[row][col] != 1){
                 dfs(board,visit,row,col,drow,dcol);
             }
-         }
+        }
     }
 public:
     void solve(vector<vector<char>>& board) {

@@ -346,6 +346,7 @@ You can click the Preview link to take a look at your changes.
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
@@ -377,6 +378,7 @@ You can click the Preview link to take a look at your changes.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
@@ -561,6 +563,7 @@ You can click the Preview link to take a look at your changes.
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
@@ -597,6 +600,7 @@ You can click the Preview link to take a look at your changes.
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -631,6 +635,7 @@ You can click the Preview link to take a look at your changes.
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack

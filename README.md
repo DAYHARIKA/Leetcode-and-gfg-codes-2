@@ -341,6 +341,7 @@ You can click the Preview link to take a look at your changes.
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -371,6 +372,7 @@ You can click the Preview link to take a look at your changes.
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -634,6 +636,7 @@ You can click the Preview link to take a look at your changes.
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
@@ -761,6 +764,7 @@ You can click the Preview link to take a look at your changes.
 | [0210-course-schedule-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |

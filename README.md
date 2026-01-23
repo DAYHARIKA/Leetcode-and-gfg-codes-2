@@ -474,6 +474,7 @@ You can click the Preview link to take a look at your changes.
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -785,6 +786,7 @@ You can click the Preview link to take a look at your changes.
 | [0210-course-schedule-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0820-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -794,6 +796,7 @@ You can click the Preview link to take a look at your changes.
 | [0787-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -808,4 +811,5 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0743-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

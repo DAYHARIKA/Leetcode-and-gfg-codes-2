@@ -354,6 +354,7 @@ You can click the Preview link to take a look at your changes.
 | [1020-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -392,6 +393,7 @@ You can click the Preview link to take a look at your changes.
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -811,5 +813,10 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0743-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->

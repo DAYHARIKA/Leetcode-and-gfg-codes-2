@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 | [0516-longest-palindromic-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1170-shortest-common-supersequence) |
@@ -138,6 +139,7 @@ You can click the Preview link to take a look at your changes.
 | [0496-next-greater-element-i](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0940-fruit-into-baskets) |
@@ -172,6 +174,7 @@ You can click the Preview link to take a look at your changes.
 | [0451-sort-characters-by-frequency](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -341,6 +344,7 @@ You can click the Preview link to take a look at your changes.
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
@@ -375,6 +379,7 @@ You can click the Preview link to take a look at your changes.
 | [0547-number-of-provinces](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0744-network-delay-time) |
@@ -566,6 +571,7 @@ You can click the Preview link to take a look at your changes.
 | [0621-task-scheduler](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
@@ -818,5 +824,6 @@ You can click the Preview link to take a look at your changes.
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->

@@ -1,54 +1,32 @@
 class Solution {
 public:
-    void exploreCombinations(
-    const string& digits,
-    int target,
-    vector<string>& expressions,
-    int pos,
-    long accumulated,
-    long previous,
-    string currentExpr
-) {
-    if (pos == digits.size()) {
-        if (accumulated == target) {
-            expressions.push_back(currentExpr);
+    void solve(string num,vector<string>& ans,string temp,int target,long sum,long prev,int ind){
+        if(ind == num.size()){
+            if(sum == target){
+                ans.push_back(temp);
+            }
+            return;
         }
-        return;
-    }
+        for(int i=ind;i<num.length();i++){
+            if(i > ind && num[ind] == '0')break;
+            string substr=num.substr(ind,i-ind+1);
+            long sub=stol(substr);
+            if(ind==0){
+                solve(num,ans,temp+substr,target,sub,sub,i+1);
+            }else{
+                solve(num,ans,temp+'+'+substr,target,sub+sum,sub,i+1);
+                solve(num,ans,temp+'-'+substr,target,sum-sub,-sub,i+1);
+                solve(num,ans,temp+'*'+substr,target,sum-prev+(prev*sub),prev*sub,i+1);
+            }
 
-    for (int i = pos; i < digits.size(); ++i) {
-        // Avoid numbers with leading zero
-        if (i > pos && digits[pos] == '0') break;
-
-        string part = digits.substr(pos, i - pos + 1);
-        long num = stol(part);
-
-        if (pos == 0) {
-            // First number, initialize
-            exploreCombinations(digits, target, expressions, i + 1, num, num, part);
-        } else {
-            // Try with +
-            exploreCombinations(digits, target, expressions, i + 1, accumulated + num, num, currentExpr + "+" + part);
-            // Try with -
-            exploreCombinations(digits, target, expressions, i + 1, accumulated - num, -num, currentExpr + "-" + part);
-            // Try with *
-            exploreCombinations(
-                digits,
-                target,
-                expressions,
-                i + 1,
-                accumulated - previous + (previous * num),
-                previous * num,
-                currentExpr + "*" + part
-            );
         }
     }
-}
-
-vector<string> addOperators(string num, int target) {
-    vector<string> output;
-    exploreCombinations(num, target, output, 0, 0, 0, "");
-    return output;
-}
-
+    vector<string> addOperators(string num, int target) {
+          
+        int n=num.length();
+        vector<string> ans;
+        string temp="";
+        solve(num,ans,temp,target,0,0,0);
+        return ans;
+    }
 };

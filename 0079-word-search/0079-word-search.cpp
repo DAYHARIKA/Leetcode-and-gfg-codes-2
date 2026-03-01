@@ -2,7 +2,8 @@ class Solution {
 public:
     bool solve(vector<vector<char>>& board, string word,vector<vector<int>>& visited,int i,int j,int n,int m,int ind){
         if(ind == word.length())return true;
-         if(i<0 || i>=n || j<0 || j>=m || board[i][j] != word[ind] || visited[i][j] ==1){
+        
+        if(i<0 || i>=n || j<0 || j>=m || board[i][j] != word[ind] || visited[i][j] ==1){
             return false;
          }
          visited[i][j]=1;

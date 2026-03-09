@@ -11,14 +11,14 @@ public:
         for(int i=1;i<n;i++){
             fact *= i;
         }
-        for(int i=n;i>0;i--){
+        while(!numbers.empty()){
             int index=k/fact;
             result += to_string(numbers[index]);
             numbers.erase(numbers.begin()+index);
-            if(i>1){
-                k %= fact;
-                fact /=(i-1);
-            }
+            if(numbers.empty())break;
+            k %= fact;
+            fact /=numbers.size();
+            
         }
         return result;
     }

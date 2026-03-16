@@ -5,9 +5,9 @@ public:
         int n=obstacleGrid[0].size();
 
         vector<int> prev(n,0);
-        vector<int> temp(n,0);
+
         for(int i=0;i<m;i++){
-            
+            vector<int> temp(n,0);
             for(int j=0;j<n;j++){
                 
                 if(obstacleGrid[i][j] == 1)temp[j]=0;

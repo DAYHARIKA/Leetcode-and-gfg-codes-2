@@ -18,6 +18,7 @@ public:
                 dp[t] = min(take,nottake);
             }
         }
+        
         if(dp[amount] == INT_MAX)return -1;
         return dp[amount];
     }

@@ -21,12 +21,14 @@ public:
             for(int j=0;j<m;j++){
 
                 if(i==0 && j==0)continue;
-
-                int up=(i>0)?dp[i-1][j]:INT_MAX;
-                if(up != INT_MAX)up += grid[i][j];
                 
-                int left=(j>0)?dp[i][j-1]:INT_MAX;
-                if(left != INT_MAX)left += grid[i][j];
+                int up=INT_MAX;
+                if(i-1 >= 0)
+                up=dp[i-1][j]+grid[i][j];
+                
+                int left=INT_MAX;
+                if(j-1 >= 0)
+                left = dp[i][j-1]+grid[i][j];
 
                 dp[i][j]=min(up,left);
             }

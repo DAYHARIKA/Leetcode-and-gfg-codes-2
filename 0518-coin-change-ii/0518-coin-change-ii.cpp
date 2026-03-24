@@ -1,23 +1,27 @@
 class Solution {
 public:
+    int m=(int)1e9+7;
     int change(int amount, vector<int>& coins) {
-        int n = coins.size();
-        vector<unsigned long long> dp(amount+1, 0);
+        
+        vector<unsigned long long> dp(amount+1,0);
 
-        // Base case: using only coins[0]
-        for (int t = 0; t <= amount; t++) {
-           if(t % coins[0] == 0)dp[t]=1;
+        for(int i=0;i<=amount;i++){
+            if(i%coins[0] == 0)dp[i]=1;
         }
 
-        for (int i = 1; i < n; i++) {
-            for (int t = 0; t <= amount; t++) {
-                unsigned long long nottake = dp[t];
-                unsigned long long take = 0;
-                if (coins[i] <= t) take = dp[t - coins[i]];
-                dp[t] = take + nottake;
-            }
+        for(int ind=1;ind<coins.size();ind++){
+            for(int tar=0;tar<=amount;tar++){
+                
+                unsigned long long np=dp[tar];
+                unsigned long long p=0;
+                if(coins[ind] <= tar){
+                    p=dp[tar-coins[ind]];
+                }
+
+                dp[tar]=(np+p);
+            }  
         }
-        return dp[amount];
+
+        return (int)dp[amount];
     }
-
 };

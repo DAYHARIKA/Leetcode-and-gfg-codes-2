@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 | [0455-assign-cookies](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -63,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 | [0678-valid-parenthesis-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0812-rotate-string) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1250-longest-common-subsequence) |
@@ -146,6 +148,7 @@ You can click the Preview link to take a look at your changes.
 | [0966-binary-subarrays-with-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -177,6 +180,7 @@ You can click the Preview link to take a look at your changes.
 | [0721-accounts-merge](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -478,6 +482,7 @@ You can click the Preview link to take a look at your changes.
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0967-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -587,6 +592,7 @@ You can click the Preview link to take a look at your changes.
 | [1034-subarrays-with-k-different-integers](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1073-number-of-enclaves) |

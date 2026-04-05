@@ -7,10 +7,11 @@ public:
          
          int n=word.length();
          int m=prede.length();
+         
+         if(n != m+1)return false;
 
          int i=0;
          int j=0;
-         int cnt=0;
 
          while(i<n && j<m){
 
@@ -19,15 +20,10 @@ public:
                 j=j+1;
             }else{
                 i=i+1;
-                cnt++;
-                if(cnt > 1)return false;
             }
          }
 
-         if(j<m)return false;
-         if(i < n)cnt =cnt+(n-i);
-         if(cnt > 1)return false;
-         return true;
+         return j==m;
 
     }
     int solve(vector<string>& words,int n){
@@ -38,7 +34,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=i-1;j>=0;j--){
 
-                if(check(words[i],words[j]) && words[j].length() < words[i].length()){
+                if(check(words[i],words[j])){
                     dp[i]=max(dp[i],dp[j]+1);
                 }
             }

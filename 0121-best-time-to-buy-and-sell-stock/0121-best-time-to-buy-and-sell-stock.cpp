@@ -10,10 +10,8 @@ public:
 
         for(int i=1;i<n;i++){
 
-            if(prices[i]-buy > 0){
-                profit=max(profit,prices[i]-buy );
-            }
-
+            
+            profit=max(profit,prices[i]-buy );
             buy=min(buy,prices[i]);
         }
 

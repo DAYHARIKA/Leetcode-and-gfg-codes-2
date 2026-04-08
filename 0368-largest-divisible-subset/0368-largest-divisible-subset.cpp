@@ -1,44 +1,51 @@
 class Solution {
 public:
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-       int n=nums.size();
-        vector<int> temp;
-        if(n == 0)return temp;
-
-        sort(nums.begin(),nums.end());
-
+    vector<int> solve(vector<int>& nums,int n){
+        
+        //can be used to find lis..
         vector<int> dp(n,1);
         vector<int> hash(n,0);
-        
-        int maxi=1;
-        int lastind=0;
-        
-        for(int i=1;i<n;i++){
-            hash[i]=i;
-            for(int j=0;j<i;j++){
-                if(nums[i]%nums[j] == 0 && dp[i] < dp[j]+1){
-                    dp[i]=dp[j]+1;
+        for(int i=0;i<n;i++)hash[i]=i;
+
+
+        int maxi=0;
+        int endind=0;
+
+        for(int i=0;i<n;i++){
+            for(int j=i-1;j>=0;j--){
+
+                if((nums[j]%nums[i] == 0 || nums[i]%nums[j] == 0) && dp[i] < 1+dp[j]){
+                    dp[i]=1+dp[j];
                     hash[i]=j;
                 }
+
             }
-            if(maxi < dp[i]){
+            if(dp[i] > maxi){
                 maxi=dp[i];
-                lastind=i;
+                endind=i;
             }
-        }
-        
-        vector<int> ans(maxi,0);
-        
-        ans[maxi-1]=nums[lastind];
-        
-        int k=maxi-2;
-        
-        while(hash[lastind] != lastind){
-            ans[k]=nums[hash[lastind]];
-            lastind=hash[lastind];
-            k=k-1;
         }
 
-        return ans; 
+
+        vector<int> temp;
+        temp.push_back(nums[endind]);
+
+        int var=endind;
+        
+        while(var != hash[var]){
+            
+            var=hash[var];
+            temp.push_back(nums[var]);
+        }
+
+        reverse(temp.begin(),temp.end());
+
+        return temp;
+    }
+    vector<int> largestDivisibleSubset(vector<int>& nums) {
+        
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        return solve(nums,n);
     }
 };

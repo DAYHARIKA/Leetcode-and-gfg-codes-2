@@ -28,11 +28,11 @@ public:
 
         vector<vector<int>> dp(m,vector<int>(m,0));
 
-        for(int i=m-2;i>=1;i--){
-            for(int j=1;j<=m-2;j++){
+        for(int i=c;i>=1;i--){
+            for(int j=1;j<=c;j++){
                 
                 if(i > j)continue;
-                
+
                 int mini=INT_MAX;
                 for(int ind=i;ind <= j;ind++){
 

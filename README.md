@@ -109,6 +109,7 @@ You can click the Preview link to take a look at your changes.
 | [0876-hand-of-straights](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2032-largest-odd-number-in-string) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +201,7 @@ You can click the Preview link to take a look at your changes.
 | [0789-kth-largest-element-in-a-stream](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -610,6 +612,7 @@ You can click the Preview link to take a look at your changes.
 | [1753-path-with-minimum-effort](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/1753-path-with-minimum-effort) |
 | [2227-sum-of-subarray-ranges](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/2227-sum-of-subarray-ranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3227-find-missing-and-repeated-values) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -716,6 +719,7 @@ You can click the Preview link to take a look at your changes.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |

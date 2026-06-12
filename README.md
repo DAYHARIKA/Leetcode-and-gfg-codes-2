@@ -227,6 +227,7 @@ You can click the Preview link to take a look at your changes.
 | [0094-binary-tree-inorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0225-implement-stack-using-queues) |
@@ -306,6 +307,7 @@ You can click the Preview link to take a look at your changes.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0222-count-complete-tree-nodes) |
@@ -338,6 +340,7 @@ You can click the Preview link to take a look at your changes.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0207-course-schedule) |
@@ -421,6 +424,7 @@ You can click the Preview link to take a look at your changes.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/DAYHARIKA/Leetcode-and-gfg-codes-2/tree/master/0222-count-complete-tree-nodes) |
